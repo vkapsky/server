@@ -54,41 +54,39 @@
         {
           "dayN": "Пятница",
           "subjects": [
-          	{
+            {
               "time": "8.15-9.35",
               "subject": "Методы прогр. и информ.",
               "course": "2",
               "group": "1а",
               "classroom": "403"
             },
-            "subjects": [
-          	{
+            {
               "time": "9.45-11.05",
               "subject": "Выч. практика",
               "course": "2",
               "group": "1а",
               "classroom": "403"
-            },
+            }
           ]
         },
         {
           "dayN": "Суббота",
           "subjects": [
-          	{
+            {
               "time": "9.45-11.05",
               "subject": "Методы прогр. и информ.",
               "course": "2",
               "group": "9а",
               "classroom": "120"
             },
-            "subjects": [
-          	{
+            {
               "time": "11.15-12.35",
               "subject": "Методы прогр. и информ.",
               "course": "2",
               "group": "2б",
               "classroom": "120"
-            },
+            }
           ]
         }
       ]
