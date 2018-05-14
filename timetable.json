@@ -1,57 +1,94 @@
 {
   "teachers": [
     {
-      "name": "Иванов",
+      "name": "Вельченко А. С.",
       "days": [
         {
           "dayN": "Понедельник",
           "subjects": [
-            {
-              "time": "8.15-9.35",
-              "subject": "Предмет1",
-              "course": "1",
-              "group": "5"
-            },
-            {
-              "time": "9.45-11.05",
-              "subject": "Предмет2",
-              "course": "3",
-              "group": "9"
-            }
           ]
         },
         {
           "dayN": "Вторник",
           "subjects": [
             {
-              "time": "8.15-9.35",
-              "subject": "Предмет10",
-              "course": "1",
-              "group": "5"
-            },
-            {
-              "time": "9.45-11.05",
-              "subject": "Предмет1",
-              "course": "1",
-              "group": "3"
+              "time": "13.00-14.20",
+              "subject": "Методы прогр. и информ.",
+              "course": "2",
+              "group": "9б",
+              "classroom": "404"
             }
           ]
         },
         {
           "dayN": "Среда",
           "subjects": [
+          ]
+        },
+        {
+          "dayN": "Четверг",
+          "subjects": [
             {
               "time": "8.15-9.35",
-              "subject": "Предмет1",
-              "course": "1",
-              "group": "3"
+              "subject": "Выч. практ.",
+              "course": "2",
+              "group": "9б",
+              "classroom": "405"
             },
             {
               "time": "9.45-11.05",
-              "subject": "Предмет2",
+              "subject": "Выч. практ.",
+              "course": "2",
+              "group": "2б/9a",
+              "classroom": "427"
+            },
+            {
+              "time": "11.15",
+              "subject": "Алгоритмы и структ. данных",
               "course": "3",
-              "group": "9"
+              "group": "10",
+              "classroom": "403"
             }
+          ]
+        },
+        {
+          "dayN": "Пятница",
+          "subjects": [
+          	{
+              "time": "8.15-9.35",
+              "subject": "Методы прогр. и информ.",
+              "course": "2",
+              "group": "1а",
+              "classroom": "403"
+            },
+            "subjects": [
+          	{
+              "time": "9.45-11.05",
+              "subject": "Выч. практика",
+              "course": "2",
+              "group": "1а",
+              "classroom": "403"
+            },
+          ]
+        },
+        {
+          "dayN": "Суббота",
+          "subjects": [
+          	{
+              "time": "9.45-11.05",
+              "subject": "Методы прогр. и информ.",
+              "course": "2",
+              "group": "9а",
+              "classroom": "120"
+            },
+            "subjects": [
+          	{
+              "time": "11.15-12.35",
+              "subject": "Методы прогр. и информ.",
+              "course": "2",
+              "group": "2б",
+              "classroom": "120"
+            },
           ]
         }
       ]
