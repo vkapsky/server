@@ -1612,26 +1612,122 @@
             {
               "dayN": "Понедельник",
               "subjects": [
+                {
+                  "time": "16.00-17.20",
+                  "subject": "Доп. главы ТВ",
+                  "teacherName": "Бахтин В. И.",
+                  "classroom": "348"
+                },
+                {
+                  "time": "17.30-18.50",
+                  "subject": "Доп. главы ТВ",
+                  "teacherName": "Бахтин В. И.",
+                  "classroom": "348"
+                },
+                {
+                  "time": "19.00-20.20",
+                  "subject": "Доп. главы ТВ",
+                  "teacherName": "Сташуленок С. П.",
+                  "classroom": "430"
+                },
+                {
+                  "time": "20.30-21.50",
+                  "subject": "Доп. главы ТВ",
+                  "teacherName": "Сташуленок С. П.",
+                  "classroom": "430"
+                }
               ]
             },
             {
               "dayN": "Вторник",
               "subjects": [
+                {
+                  "time": "16.00-17.20",
+                  "subject": "Базы данных",
+                  "teacherName": "Шибут А. С.",
+                  "classroom": "409"
+                },
+                {
+                  "time": "17.30-18.50",
+                  "subject": "Базы данных",
+                  "teacherName": "Шибут А. С.",
+                  "classroom": "409"
+                },
+                {
+                  "time": "19.00-20.20",
+                  "subject": "Базы данных",
+                  "teacherName": "Шибут А. С.",
+                  "classroom": "409"
+                }
               ]
             },
             {
               "dayN": "Среда",
               "subjects": [
+                {
+                  "time": "16.00-17.20",
+                  "subject": "Разработка web-приложений",
+                  "teacherName": "Кравчук А. И.",
+                  "classroom": "427"
+                },
+                {
+                  "time": "17.30-18.50",
+                  "subject": "Разработка web-приложений",
+                  "teacherName": "Кравчук А. И.",
+                  "classroom": "427"
+                },
+                {
+                  "time": "19.00-20.20",
+                  "subject": "Разработка web-приложений",
+                  "teacherName": "Кравчук А. И.",
+                  "classroom": "427"
+                }
               ]
             },
             {
               "dayN": "Четверг",
               "subjects": [
+                {
+                  "time": "16.00-17.20",
+                  "subject": "Доп. главы ур. мат. физики",
+                  "teacherName": "Корзюк В. И.",
+                  "classroom": "346"
+                },
+                {
+                  "time": "17.30-18.50",
+                  "subject": "Доп. главы ур. мат. физики",
+                  "teacherName": "Корзюк В. И.",
+                  "classroom": "346"
+                },
+                {
+                  "time": "19.00-20.20",
+                  "subject": "Доп. главы ур. мат. физики",
+                  "teacherName": "Корзюк В. И.",
+                  "classroom": "346"
+                }
               ]
             },
             {
               "dayN": "Пятница",
               "subjects": [
+                {
+                  "time": "16.00-17.20",
+                  "subject": "ДС",
+                  "teacherName": "Васильев И. Л./Кононов С. Г.",
+                  "classroom": "355/324"
+                },
+                {
+                  "time": "17.30-18.50",
+                  "subject": "ДС",
+                  "teacherName": "Васильев И. Л./Кононов С. Г.",
+                  "classroom": "355/324"
+                },
+                {
+                  "time": "19.00-20.20",
+                  "subject": "ДС",
+                  "teacherName": "Васильев И. Л./Кононов С. Г.",
+                  "classroom": "355/324"
+                }
               ]
             },
             {
